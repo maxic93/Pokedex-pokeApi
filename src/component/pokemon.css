@@ -1,6 +1,6 @@
 .pokemon {
-    width: 360px;
-    height: 500px;
+    width: 340px;
+    
     
 }
 .name {
@@ -11,9 +11,9 @@
     font-family: 'Kdam Thmor Pro', sans-serif;
 }
 .imgPokemon {
-    width: 100%;
+    width: 350px;
     height: 300px;
-    margin: 40px;
+    padding: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
