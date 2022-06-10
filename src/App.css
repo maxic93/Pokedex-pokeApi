@@ -1,0 +1,20 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://images.pexels.com/photos/1310847/pexels-photo-1310847.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.img_container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.img_container img {
+  width: 300px;
+
+}
+

@@ -1,0 +1,33 @@
+.form  {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.input_form {
+    padding: 15px;
+    font-size: 1.8em;
+    color: #222;
+    background: #f5f5f5;
+    box-shadow: 4px 4px 5px#666;
+    border-style: none;
+}
+.input_form::placeholder {
+    color: #333;
+}
+.button_form {
+    font-size: 1.2em;
+    color: #f5f5f5;
+    background: #e91313;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+    transition: .3s;
+}
+.button_form:hover {
+    background: #af0d0d;
+}
